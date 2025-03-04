@@ -42,7 +42,7 @@ Me chamo Henrique, tenho 19 anos e sou estudante de Ciência da Computação no 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="125" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ck-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
