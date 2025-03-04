@@ -1,16 +1,47 @@
-## Hi there 👋
+# Henrique Marangoni
 
-<!--
-**R1ck-dev/R1ck-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência da Computação`**
 
-Here are some ideas to get you started:
+Me chamo Henrique, tenho 19 anos e sou estudante de Ciência da Computação no IFSP. Sou focado em desenvolvimento de software e busco constantemente aprimorar minhas habilidades e me atualizar nas tendências da área. Dedico-me ao aprendizado contínuo e à aplicação prática do conhecimento adquirido em projetos acadêmicos e pessoais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    allign="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=R1ck-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+  <img
+    allign="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ck-dev&theme=tokyonight&layout=compact&custom-title=Tecnologias&langs_count=9"
+    />
+</p>
