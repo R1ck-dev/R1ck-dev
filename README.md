@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Henrique, tenho 19 anos e sou estudante de Ciência da Computação no IFSP. Sou focado em desenvolvimento de software e busco constantemente aprimorar minhas habilidades e me atualizar nas tendências da área. Dedico-me ao aprendizado contínuo e à aplicação prática do conhecimento adquirido em projetos acadêmicos e pessoais.
+Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computação no IFSP. Sou focado em **desenvolvimento de software** e busco constantemente aprimorar minhas habilidades, me atualizando nas tendências da área.  
 
 ---
 
@@ -24,9 +24,43 @@ Me chamo Henrique, tenho 19 anos e sou estudante de Ciência da Computação no 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+    align="left"
+    alt="Spring"
+    title="Spring Boot"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="REST API"
+    title="REST API"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rest/rest-original.svg"
+/>
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -39,11 +73,10 @@ Me chamo Henrique, tenho 19 anos e sou estudante de Ciência da Computação no 
     src="https://github-readme-stats.vercel.app/api?username=R1ck-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="125" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ck-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="125" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ck-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
