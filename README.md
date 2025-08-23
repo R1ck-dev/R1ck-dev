@@ -65,17 +65,16 @@ Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computaç�
 ### 📊 Estatísticas
 
 <p>
+   <img
+    align="left"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=R1ck-dev&theme=radical"
+  />
+
   <img 
     align="left"
     alt="Top Languages"
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1ck-dev&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook"
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="125" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1ck-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
