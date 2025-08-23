@@ -50,11 +50,11 @@ Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computaç�
 />
 <img
     align="left"
-    alt="REST API"
-    title="REST API"
+    alt="API"
+    title="API"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rest/rest-original.svg"
+    src="https://cdn-icons-png.flaticon.com/512/732/732212.png"
 />
 
 <br/>
@@ -66,11 +66,10 @@ Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computaç�
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=R1ck-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    align="left"
+    alt="Top Languages"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1ck-dev&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook"
   />
 
   <img 
