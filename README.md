@@ -65,13 +65,15 @@ Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computaç�
 ### 📊 Estatísticas
 
 <p>
-   <img
-    align="left"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=R1ck-dev&theme=radical"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      align="left"
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=R1ck-dev&theme=radical"
+    />
+  </a>
 
-  <img 
+  <img
     align="left"
     alt="Top Languages"
     height="180"
