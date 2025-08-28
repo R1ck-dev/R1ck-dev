@@ -80,3 +80,12 @@ Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computaç�
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1ck-dev&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook"
   />
 </p>
+
+<br clear="left"/>
+
+---
+
+### 🧩 Contribuições em 3D
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
