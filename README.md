@@ -89,3 +89,4 @@ Olá! Me chamo Henrique, tenho 20 anos e sou estudante de Ciência da Computaç�
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
